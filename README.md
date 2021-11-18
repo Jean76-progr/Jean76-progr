@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jean76-progr
+- 👀 I’m interested in Python and SQL also in cybersecurity
+- 🌱 I’m currently learning Python, SQL andd cybersecurity
+- 📫 How to reach me jeanjanel692@gmail.com
